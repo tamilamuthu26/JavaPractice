@@ -1,0 +1,12 @@
+🔥 Key Point: Registry = Extension Point
+A registry is an extensible plugin mechanism.
+Updating a registry is not modifying behavior, it is registering new behavior.
+
+✔ Yes, registry is related to Dependency Injection
+because you inject a map of strategies instead of hardcoding logic.
+
+✔ Yes, it still follows Open/Closed Principle
+because:
+No existing classes change
+Only new classes are added
+The registry update is considered configuration, not modification of logic

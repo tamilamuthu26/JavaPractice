@@ -1,0 +1,3 @@
+interface OrderPlacement {
+    void placeOrder();
+}

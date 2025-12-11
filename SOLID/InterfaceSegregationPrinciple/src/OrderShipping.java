@@ -1,0 +1,3 @@
+interface OrderShipping {
+    void shipOrder();
+}

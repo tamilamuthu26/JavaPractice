@@ -1,0 +1,3 @@
+interface OrderExchange {
+    void exchangeOrder();
+}

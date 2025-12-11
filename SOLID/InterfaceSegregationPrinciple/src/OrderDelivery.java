@@ -1,0 +1,3 @@
+interface OrderDelivery {
+    void deliverOrder();
+}

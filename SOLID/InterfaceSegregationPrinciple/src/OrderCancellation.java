@@ -1,0 +1,3 @@
+interface OrderCancellation {
+    void cancelOrder();
+}
